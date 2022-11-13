@@ -1,4 +1,4 @@
-# Switch-bounce
+# Switch bounce
 ## About the project:
 - To investigate switch bouncing and to cope with it in mbed - FRDM-KL25Z.
 - While a switch from the outside world bounces many times when clicked/pushed, our ucontroller will only react to it when it settles on a steady-state.
